@@ -1,1 +1,1 @@
-0x02. Shell, I/O Redirections and filtsrs
+0x02. Shell, I/O Redirections and filters
